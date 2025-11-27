@@ -73,7 +73,7 @@ java TaTeTi
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🎨 Personalización
+# 🎨 Personalización
 
 ## Cambia los colores de X y O:
 
@@ -106,14 +106,11 @@ Intenta un empate perfecto contra la CPU 😎
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Autor (Juan Manuel Parylak)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## Saludos!🖐🏻
  &emsp;
-    <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Realizao por (Juan Manuel Parylak)" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
+
 
 
 
