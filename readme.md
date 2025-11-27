@@ -3,12 +3,14 @@
 **Un clásico juego de Ta-Te-Ti (Tic-Tac-Toe) en Java con interfaz gráfica y modo contra CPU.**
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖥️ Captura del Juego
 
 ![Ta-Te-Ti Screenshot](captura_de_pantalla.jpg)
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Características
 
@@ -22,6 +24,7 @@
 - ✅ **CPU con movimientos aleatorios y estratégicos**  
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🕹️ Cómo jugar
 
@@ -36,6 +39,7 @@
 7. Haz clic en **Reiniciar** para comenzar una nueva partida.  
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚙️ Requisitos
 
@@ -43,6 +47,7 @@
 - IDE recomendado: IntelliJ, Eclipse o NetBeans  
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📝 Cómo ejecutar
 
@@ -51,6 +56,7 @@
 ```bash
 git clone https://github.com/tu-usuario/ta-te-ti-java.git
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📝 Cómo Compilarlo
 
@@ -58,6 +64,7 @@ git clone https://github.com/tu-usuario/ta-te-ti-java.git
 ```bash
 javac TaTeTi.java
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📝 Ejecutar el Juego
 
@@ -65,6 +72,7 @@ javac TaTeTi.java
 ```bash
 java TaTeTi
 ```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 🎨 Personalización
 
@@ -80,7 +88,7 @@ casilla.setForeground(Color.RED);  // O
 ```java
 panelTablero.setBackground(Color.BLACK);
 ```
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤖 Inteligencia Artificial (CPU)
 
@@ -90,17 +98,23 @@ Modo Imposible: Minimax para jugar de forma estratégica y no perder.
 
 La CPU puede empezar en cualquier posición aleatoria.
 
-# 📌 Próximas mejoras
-
-## 🎨 Efectos visuales al ganar (resaltado de la línea ganadora)
-
-## 🎮 Guardar estadísticas de partidas
-
-## 🌐 Versión web del juego usando JavaScript y HTML
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ Tips
 
 Para un desafío mayor, juega contra la CPU en modo Imposible.
 Intenta un empate perfecto contra la CPU 😎
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💻 Autor (Juan Manuel Parylak)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Saludos!🖐🏻
+ &emsp;
+    <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+  &emsp;
+
+
+
