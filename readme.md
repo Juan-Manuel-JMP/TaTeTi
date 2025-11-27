@@ -1,13 +1,10 @@
 ## 🎮 Ta-Te-Ti ❤️
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=java) 
-![Estado](https://img.shields.io/badge/Estado-Completo-brightgreen) 
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)  
 **Un clásico juego de Ta-Te-Ti (Tic-Tac-Toe) en Java con interfaz gráfica y modo contra CPU.**
 
 ---
 
-## 🖥️ Captura del juego
+## 🖥️ Captura del Juego
 
 ![Ta-Te-Ti Screenshot](captura_de_pantalla.jpg)
 
@@ -95,18 +92,15 @@ La CPU puede empezar en cualquier posición aleatoria.
 
 # 📌 Próximas mejoras
 
-# 🎨 Efectos visuales al ganar (resaltado de la línea ganadora)
+## 🎨 Efectos visuales al ganar (resaltado de la línea ganadora)
 
-# 🎮 Guardar estadísticas de partidas
+## 🎮 Guardar estadísticas de partidas
 
-# 🌐 Versión web del juego usando JavaScript y HTML
+## 🌐 Versión web del juego usando JavaScript y HTML
 
-# 💻 Autor (Juan Manuel Parylak)
-
-# ⚡ Tips
+## ⚡ Tips
 
 Para un desafío mayor, juega contra la CPU en modo Imposible.
-
-
 Intenta un empate perfecto contra la CPU 😎
 
+# 💻 Autor (Juan Manuel Parylak)
