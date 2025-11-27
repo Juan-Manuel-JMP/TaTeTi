@@ -1,9 +1,8 @@
 ## 🎮 Ta-Te-Ti ❤️
 
-**Un clásico juego de Ta-Te-Ti (Tic-Tac-Toe) en Java con interfaz gráfica y modo contra CPU.**
+** Un clásico juego de Ta-Te-Ti (Tic-Tac-Toe) en Java con interfaz gráfica y modo contra CPU.**
 
 ---
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🖥️ Captura del Juego
 
@@ -115,6 +114,7 @@ Intenta un empate perfecto contra la CPU 😎
  &emsp;
     <a href="#"><img alt="Realizao por JMP" src="https://img.shields.io/badge/Realizado por JMP%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
+
 
 
 
