@@ -90,7 +90,7 @@ Modo Imposible: Minimax para jugar de forma estratégica y no perder.
 
 La CPU puede empezar en cualquier posición aleatoria.
 
-## 📌 Próximas mejoras
+# 📌 Próximas mejoras
 
 # 🎨 Efectos visuales al ganar (resaltado de la línea ganadora)
 
@@ -98,11 +98,11 @@ La CPU puede empezar en cualquier posición aleatoria.
 
 # 🌐 Versión web del juego usando JavaScript y HTML
 
-
-## 💻 JMP (Juan Manuel Parylak)
+# 💻 Autor (Juan Manuel Parylak)
 
 # ⚡ Tips
 
 Para un desafío mayor, juega contra la CPU en modo Imposible.
+
 
 Intenta un empate perfecto contra la CPU 😎
